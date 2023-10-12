@@ -1,7 +1,7 @@
 // JavaScript
 
 const thumbs = document.querySelectorAll('.thumb');
-const main = document.querySelector('#main-image')
+const main = document.querySelector('#main-image');
 
 // クリックで切り替え
 // thumbs.forEach(function(item, index) {
